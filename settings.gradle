@@ -1,0 +1,3 @@
+rootProject.name = "CpuProfiler"
+include ':app'
+include ':cpuprofiler'
